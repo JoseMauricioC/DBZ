@@ -1,0 +1,19 @@
+#arriba{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+
+}
+
+#segundo{
+    width: 50%;
+    height: 300px;
+    border: 2px solid black;
+}
+
+#tercero{
+    width: 50%;
+    height: 300px;
+    border: 2px solid black;
+}
